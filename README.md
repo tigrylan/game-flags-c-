@@ -1,2 +1,5 @@
 # game-flags-c
 Игра "Российский флаг". Вдоль доски расположены лунки (количество лунок кратно 3). В каждой лунке лежит красный, белый или синий шар. Одним ходом разрешается менять местами два любых шара. Необходимо добиться того, чтобы все белые шары шли первыми, за ними - синие шары, а красные - последними. Если общее число лунок равно n, то для решения задачи достаточно сделать не более n-1 хода. Если игрок делает более чем n-1 ход , то игра проиграна. Программа может иметь несколько уровней сложности (уровни сложности могут зависеть от количества ходов).
+
+
+The game "Russian flag". There are holes along the board (the number of holes is a multiple of 3). There is a red, white or blue ball in each hole. It is allowed to swap any two balls in one move. It is necessary to ensure that all white balls go first, followed by blue balls, and red balls last. If the total number of holes is n, then it is enough to make no more than n-1 moves to solve the problem. If a player makes more than n-1 moves, then the game is lost. The program can have several difficulty levels (difficulty levels may depend on the number of moves).
